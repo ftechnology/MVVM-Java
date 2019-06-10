@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM Sample App</string>
+    <string name="loading_projects">Loading data ...</string>
+    <string name="projects_list">Data list</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+</resources>
